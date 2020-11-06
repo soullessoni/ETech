@@ -1,6 +1,3 @@
-from pprint import pprint
-
-
 def count_fizz_buzz():
     return_array = []
     for i in range(1, 101):
